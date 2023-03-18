@@ -18,12 +18,12 @@ Security is of paramount importance when developing a web or mobile application 
 
 ![Example](../Images/designpattern.png)
 
-## *My assingment about : [LoopBack - Authentication and Authorization](https://github.com/hongna14/Avocada_CoffeeShop_BE)*
-
 ## MIGRATION
 In LoopBack, auto-migration helps the user create relational database schemas based on definitions of their models. Auto-migration can facilitate the synchronization of the backing database and models so that they match, such as in cases where the database needs to be changed in order to match the models. <br>
 **Installation**
 ```js
 npm install loopback4-migration
 ```
+
+## *My assingment about : [LoopBack - Authentication and Authorization](https://github.com/hongna14/Avocada_CoffeeShop_BE)*
 

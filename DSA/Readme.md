@@ -19,14 +19,13 @@
      <br>
 ## Linked List 
  ![Example](../Images/Linkedlist.png)
-  1. **WHAT** 
-  <br>
+  1. **WHAT**  <br>
     - Line near data structure
 <br>
     - A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list ( data, pointer ). <br>
   2. **WHY**
    <br>
-    - Having a lots of advantages: Dynamic, Quick insertion, Quick deletion…Linked lists are used for dynamic memory allocation which means effective memory utilization hence, no memory wastage
+    - Having a lots of advantages: Dynamic, Quick insertion, Quick deletion…Linked lists are used for dynamic memory allocation which means effective memory utilization hence, no memory wastage <br>
   3. **WHEN** <br>
     - Linked Lists are used to implement **stacks** and **queues**.
     - It is used for the various representations of trees and graphs.
